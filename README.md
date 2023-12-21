@@ -100,3 +100,7 @@ For official tutorials and in-depth learning, consider the following resources:
 - [Vulkan API Documentation](https://www.khronos.org/registry/vulkan/)
 - [Vulkan Online Tutorial](https://vulkan-tutorial.com/Drawing_a_triangle/Setup/Instance)
 - [YouTube Vulkan Tutorial](https://www.youtube.com/watch?v=d2jkALhm9EE&list=PLRtjMdoYXLf4A8013lsFWHOgM9qdh0kjH) 
+
+## Acknowledgements
+
+This project was made possible with hardware provided by the Contextual Computing Lab at the Georgia Institute of Technology.
